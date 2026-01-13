@@ -34,6 +34,9 @@ Impact: Identifies pollution hotspots and seasonal risk periods.
 
 2️⃣ Pollutant Contribution Analysis
 
+![Dashboard Preview](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/Screenshot%20(1390).png)
+
+
 AQI contribution by pollutants (PM2.5, PM10, NO₂, SO₂, CO, O₃)
 
 State-wise pollutant dominance
