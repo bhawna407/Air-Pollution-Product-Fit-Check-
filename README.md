@@ -55,6 +55,8 @@ Impact: Connects environmental data with public health outcomes.
 
 4️⃣ Geographic Risk Mapping
 
+![Dashboard Preview](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/Screenshot%20(1391).png)
+
 City & state-level AQI mapping
 
 High-risk zones visualized geographically
