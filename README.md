@@ -65,6 +65,8 @@ Impact: Supports regional prioritization for interventions.
 
 5️⃣ Vehicle & EV Impact Analysis
 
+![Dashboard Preview](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/Screenshot%20(1392).png)
+
 Fuel type vs AQI
 
 Vehicle class vs AQI
