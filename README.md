@@ -22,6 +22,8 @@ Which regions offer highest potential for air purifier products?
 🧠 Analysis Performed
 1️⃣ Air Quality Overview
 
+![Dashboard Preview](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/Screenshot%20(1388).png)
+
 Average AQI by state & city
 
 AQI status classification (Good → Severe)
