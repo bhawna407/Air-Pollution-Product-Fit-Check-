@@ -51,7 +51,7 @@ Prior to the beginning of the analysis, a variety of checks were conducted for q
 
 **Overview of Findings**
 
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/OVERVIEW.png)
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PRODUCT%20MARKET%20FIT.png)
 
 AirPure Innovations' market-opportunity analysis validates a strong, structurally durable demand case for entry into India. The national mean AQI of 118.9 (Moderate band) masks a sharply concentrated severity profile: 14.6% of city-day readings sit in Poor+ bands, and the Delhi-NCR corridor (Delhi mean AQI 216, with 51.4% of readings in Poor+) anchors a Tier-1 demand cluster. Particulate matter is unambiguously the product target — PM2.5/PM10 is the prominent pollutant in 83.5% of all readings — which directly answers the engineering question around filtration priority. The health dimension quantifies the consumer cost: 1,663,762 reported cases and 27,992 deaths (CFR 1.68%), with the respiratory subset far deadlier at a ~8.6% CFR, giving the brand a defensible, health-anchored value proposition. On the demand-trigger side, an internal-combustion-dominated fleet (93.3% Petrol+Diesel of 248.3M registrations) sustains the particulate load, while a +359% EV surge (2021→2023) signals a population already migrating toward clean-air behavior. Although national AQI has improved −34.0% over the decade, severity remains geographically locked into the northern belt rather than resolved — meaning demand is persistent, not transient. AirPure should therefore proceed to production with a PM-led HEPA+carbon spec, a geo-phased NCR-first launch, and health-led positioning.
 
@@ -60,13 +60,13 @@ Below is the overview page from the Power BI dashboard, and more examples are in
 **SEVERITY MAPPING (AQI & CAPACITY)**
 This section evaluates where air quality is persistently or worsening across states and cities, establishing the geographic spine of demand.
 
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/SEVERITY%20MAPPING.png)
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PRODUCT%20FIT%20PT%20-2%20map.png)
 
 **Severity Baseline**: The national mean AQI of **118.9** places India in the Moderate band, but **14.6%** of all readings fall in Poor / Very Poor / Severe categories — a large, chronically exposed urban cohort.
 
 **Hotspot Concentration**: The worst-AQI cities cluster tightly in the northern Indo-Gangetic belt — **Byrnihat (235), Gurgaon (223), Delhi (216), Ghaziabad (213), Greater Noida (206), Bhiwadi (206)** — indicating demand is regional, not uniform.
 
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/POLLUTANT%20BREAKDOWN.png)
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PRODUCT%20FIT%20PT%20-2%20pollutants.png)
 
 **Target Pollutant**: **PM2.5/PM10 drives 83.5%** of prominent-pollutant readings, confirming particulate filtration (true-HEPA) as the core engineering requirement over gaseous-pollutant handling.
 
