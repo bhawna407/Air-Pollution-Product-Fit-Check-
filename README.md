@@ -78,7 +78,7 @@ This section evaluates where air quality is persistently or worsening across sta
 **HEALTH IMPACT CORRELATION**
 This section quantifies the health burden attributable to poor air quality and translates it into a consumer well-being argument.
 
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/HEALTH%20IMPACT.png)
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PROD.%20AMRKET%20PT%20-2%20DISEASES.png)
 
 **Disease Burden**: Reported pollution-adjacent illness totals **1,663,762 cases** and **27,992 deaths**, an overall **CFR of 1.68%**, establishing a measurable population-level health cost.
 
@@ -91,13 +91,11 @@ This section quantifies the health burden attributable to poor air quality and t
 **DEMAND TRIGGERS (EMISSION LOAD & MARKET SIZE)**
 This section examines the structural drivers of pollution and the addressable market that converts severity into purchasing demand.
 
-![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AQI%20PRODUCT%20FIT%20PT-3%20EV%20SALES%20.png)
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PRODUCT%20MARKET%20FIT%20-%20EV%20VEHICLE.png)
 
 **Emission Source Load**: Of **248.3M vehicle registrations**, internal-combustion fuels constitute **93.3%** of the fleet (**Petrol 81.6%, Diesel 11.7%**), a sustained structural contributor to ambient particulates that keeps demand from self-correcting.
 
 **Behavioral Tailwind**: EV penetration is only **2.1%** today but registrations surged **+359%** from 2021 to 2023 — a leading indicator of a consumer base already adopting clean-air, health-conscious behaviors.
-
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/MARKET%20SIZE.png)
 
 **Addressable Market**: Coverage across **32 states, 296 cities, and 559 monitoring stations**, with urban-population mass concentrated in **Maharashtra, Uttar Pradesh, Tamil Nadu, Gujarat, and West Bengal**, frames a serviceable market well beyond the high-AQI launch belt.
 
