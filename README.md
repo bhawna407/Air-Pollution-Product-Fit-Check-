@@ -62,6 +62,9 @@ This section evaluates where air quality is persistently or worsening across sta
 
 ![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PRODUCT%20FIT%20PT%20-2%20map.png)
 
+
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AIRPURE%20AQI%20PRODUCT%20FIT%20PT-3%20INDIA%20STATES%20TBL.png)
+
 **Severity Baseline**: The national mean AQI of **118.9** places India in the Moderate band, but **14.6%** of all readings fall in Poor / Very Poor / Severe categories — a large, chronically exposed urban cohort.
 
 **Hotspot Concentration**: The worst-AQI cities cluster tightly in the northern Indo-Gangetic belt — **Byrnihat (235), Gurgaon (223), Delhi (216), Ghaziabad (213), Greater Noida (206), Bhiwadi (206)** — indicating demand is regional, not uniform.
@@ -88,7 +91,7 @@ This section quantifies the health burden attributable to poor air quality and t
 **DEMAND TRIGGERS (EMISSION LOAD & MARKET SIZE)**
 This section examines the structural drivers of pollution and the addressable market that converts severity into purchasing demand.
 
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/DEMAND%20TRIGGERS.png)
+![Dashboard](https://github.com/bhawna407/Air-Pollution-Product-Fit-Check-/blob/main/AQI%20PRODUCT%20FIT%20PT-3%20EV%20SALES%20.png)
 
 **Emission Source Load**: Of **248.3M vehicle registrations**, internal-combustion fuels constitute **93.3%** of the fleet (**Petrol 81.6%, Diesel 11.7%**), a sustained structural contributor to ambient particulates that keeps demand from self-correcting.
 
