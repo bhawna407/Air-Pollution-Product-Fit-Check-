@@ -43,8 +43,6 @@ Targeted SQL Queries for deeper analysis can be found
 **Data Structure & Initial Checks**
 AirPure Innovations' analytical model, as illustrated in the model view, consists of 10 tables: CITY STATE AQI, DISEASE AND DEATTH REPORT CASES, VEHICLE & FUEL, URBAN POPU GENEDER AQI, and six conformed dimensions (DIM 1 STATE & CITY, DIM 2 STATE AND CITY, DIM 2 DISEASE, DIM 3 FUEL TYPE, DIM 3 STATES, DIM 3 VEHICLE), with a total row count of 656,794 records across a 2009–2025 reporting horizon.
 
-![Dashboard](https://github.com/bhawna407/AirPure-Innovations-Analysis/blob/main/DATAMODEL.png)
-
 Prior to the beginning of the analysis, a variety of checks were conducted for quality control & familiarization with the datasets. The SQL Queries utilized to inspect & perform quality checks can be found here.
 
 **Executive Summary**
